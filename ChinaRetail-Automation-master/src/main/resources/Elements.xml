@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <URL>https://arlwcstst04.ecorp.cat.com:8100/en/lshm</URL>
+   <Pages>
+      <Home>
+         <Search>SimpleSearchForm_SearchTerm</Search>
+         <Account>//*[@id="header"]/div/div[1]/div/div[3]/div[4]/ul/li[2]/a/span</Account>
+      </Home>
+      <PDP>
+         <RealPrice>//*[contains(@id,'offerPrice')]</RealPrice>
+         <OfferPrice>//*[contains(@id,'price_display')]</OfferPrice>
+         <Specifications>//*[contains(@id,'descAttributeName')]</Specifications>
+         <Name>//*[contains(@id,'PageHeading_3')]/h3</Name>
+      </PDP>
+   </Pages>
+</data>
